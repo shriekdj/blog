@@ -1,6 +1,7 @@
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://shriekdj.github.io/blog/$1 [R,L]
+Redirect 404 https://shriedj.github.io/blog/* https://blog.shriekdj.tk/*
 Redirect 301 https://shriedj.github.io/blog/* https://blog.shriekdj.tk/*
 Redirect 301 https://blog.shriedj.tk/ https://shriekdj.hashnode.dev/
 Redirect 301 https://blog.shriedj.tk/* https://shriekdj.hashnode.dev/*
