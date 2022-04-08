@@ -1,7 +1,5 @@
 ---
 permalink: building-website-from-scratch-part-6
-redirect_to: https://shriekdj.hashnode.dev/building-website-from-scratch-part-6/
----
 <!DOCTYPE html>
 <html>
   <head>
