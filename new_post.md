@@ -1,5 +1,6 @@
 ---
 permalink: building-website-from-scratch-part-6
+---
 <!DOCTYPE html>
 <html>
   <head>
